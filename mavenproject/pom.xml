@@ -6,6 +6,9 @@
 
   <groupId>com.maven.sample</groupId>
   <artifactId>mavenproject</artifactId>
+  
+  
+  
   <version>0.0.1-SNAPSHOT</version>
 
   <name>mavenproject</name>
